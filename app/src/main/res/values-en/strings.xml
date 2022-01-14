@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Notes</string>
+
+    <!--Floating action button-->
+    <string name="content_description_fab_list_activity">This button add a new Task</string>
+
+    <!--Messages-->
+    <string name="toast_must_fill_all_fields">You must fill all the fields</string>
+    <string name="toast_note_created_successfully">Note created successfully</string>
+    <string name="toast_note_modified_successfully">Note modified successfully</string>
+
+    <!--Custom titles of Activities-->
+    <string name="title_notes_list_activity">Notes List</string>
+    <string name="title_add_note_activity">Add Note</string>
+    <string name="title_edit_note_activity">Edit Note</string>
+
+    <!--Names of Picker Dialog's fields-->
+    <string name="title_picker_dialog">Select your background color</string>
+    <string name="text_positive_button">Yes</string>
+    <string name="text_negative_button">No</string>
+
+    <!--Fields of Edit Task Activity-->
+    <string name="edit_note_title_task">Title of your task</string>
+    <string name="edit_note_description_task">Write the description</string>
+    <string name="edit_task_priority">Priority</string>
+
+    <!--Names of Dialog for Delete all Notes-->
+    <string name="title_dialog_delete_allnotes">Delete all notes</string>
+    <string name="message_dialog_delete_allnotes">Are you sure you want to delete all Notes?</string>
+</resources>

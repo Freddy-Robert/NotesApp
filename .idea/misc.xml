@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/GQS/Desktop/Proyectos_de_Android/MyApplication9/app/src/main/res/drawable/add_task_icon.xml" value="0.221875" />
+        <entry key="..\:/Users/GQS/Desktop/Proyectos_de_Android/MyApplication9/app/src/main/res/drawable/delete_all_tasks_icon.xml" value="0.2598958333333333" />
+        <entry key="..\:/Users/GQS/Desktop/Proyectos_de_Android/MyApplication9/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/GQS/Desktop/Proyectos_de_Android/MyApplication9/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Users/GQS/Desktop/Proyectos_de_Android/MyApplication9/app/src/main/res/layout/activity_pick_background.xml" value="0.16614583333333333" />
+        <entry key="..\:/Users/GQS/Desktop/Proyectos_de_Android/MyApplication9/app/src/main/res/layout/layout_listNotes_activity.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/GQS/Desktop/Proyectos_de_Android/MyApplication9/app/src/main/res/layout/layout_listnotes_activity.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/GQS/Desktop/Proyectos_de_Android/MyApplication9/app/src/main/res/layout/note_item.xml" value="0.33" />
+        <entry key="..\:/Users/GQS/Desktop/Proyectos_de_Android/MyApplication9/app/src/main/res/menu/menu_add_note_activity.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/GQS/Desktop/Proyectos_de_Android/MyApplication9/app/src/main/res/menu/menu_list_activity.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/GQS/Desktop/Proyectos_de_Android/MyApplication9/app/src/main/res/menu/menu_list_notes_activity.xml" value="0.24375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

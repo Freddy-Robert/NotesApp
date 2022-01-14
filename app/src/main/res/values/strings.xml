@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Mis apuntes</string>
+
+    <!--Floating action button-->
+    <string name="content_description_fab_list_activity">Este boton agrega una nueva tarea</string>
+
+    <!--Messages-->
+    <string name="toast_must_fill_all_fields">Debes de llenar todos los campos</string>
+    <string name="toast_note_created_successfully">Nota creada exitosamente</string>
+    <string name="toast_note_modified_successfully">Nota modificada exitosamente</string>
+
+    <!--Custom titles of Activities-->
+    <string name="title_notes_list_activity">Lista de Tareas</string>
+    <string name="title_add_note_activity">Agregar una tarea</string>
+    <string name="title_edit_note_activity">Editar tarea</string>
+
+    <!--Names of Picker Dialog's fields-->
+    <string name="title_picker_dialog">Selecciona tu color de fondo</string>
+    <string name="text_positive_button">Si</string>
+    <string name="text_negative_button">No</string>
+
+    <!--Fields of Edit Task Activity-->
+    <string name="edit_note_title_task">Título de tu tarea</string>
+    <string name="edit_note_description_task">Descripción</string>
+    <string name="edit_task_priority">Prioridad</string>
+
+    <!--Names of Dialog for Delete all Notes-->
+    <string name="title_dialog_delete_allnotes">Borrar todas las Notas</string>
+    <string name="message_dialog_delete_allnotes">Estas seguro(a) que deseas borrar todo?</string>
+</resources>
